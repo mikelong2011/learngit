@@ -3,4 +3,5 @@ Git is a free software..distributed under the GPL.
 Git有一个多表索引叫做stage.
 Git tracks changes.
 Create a new branch is quick...edit by dev!
+Creating a new branch is quick AND simple!
 
