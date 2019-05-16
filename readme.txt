@@ -4,3 +4,5 @@ Git有一个多表索引叫做stage.
 Git tracks changes.
 Create a new branch is quick and simple! 
 
+edit by dev x
+
